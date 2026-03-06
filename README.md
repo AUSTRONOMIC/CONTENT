@@ -1,37 +1,36 @@
 # Austronomic
 
-Austronomic is an educational project dedicated to understanding astronomy from a systems and engineering perspective.
+Austronomic is an educational project dedicated to exploring astronomy from a systems and engineering perspective.
 
-The goal of this project is to help newcomers approach astronomy in a structured way — beginning with conceptual foundations before moving into equipment, observation techniques, and astrophotography workflows.
+The goal of this project is to help newcomers approach astronomy in a structured way — beginning with conceptual foundations before moving into instrumentation, observation techniques, and astrophotography workflows.
 
-The repository contains supporting materials for the Austronomic YouTube channel, including:
-
-- Episode notes
-- Weekly journals
-- Educational diagrams
-- Scripts and prompts used for visual explanations
-- Reference materials related to astronomical observation
+The Austronomic YouTube channel presents the primary content, while this repository serves as a companion space for additional materials that are difficult to present in video form.
 
 ---
 
-## Project Structure
+## Repository Purpose
 
-The repository is organized as follows:
+This repository provides supplementary material for the Austronomic project.  
+It contains structured notes, journals documenting the development of the project, and technical experiments or tools that may be useful to the community.
 
-episodes/  
-Materials related to individual video episodes.
+The repository is intended to evolve alongside the project as new topics are explored.
 
-weekly-journals/  
-Weekly progress journals documenting the development of the Austronomic project.
+---
 
-templates/  
-Reusable templates for journals, scripts, and documentation.
+## Repository Structure
 
-brand/  
-Logos and visual identity assets.
+The repository currently contains three main sections:
 
-meta/  
-Internal project notes and repository documentation.
+**journals/**  
+Weekly notes documenting the development of the Austronomic project and related work.
+
+**foundations/**  
+Conceptual explanations and structured notes that expand on topics discussed in the videos.
+
+**lab/**  
+Technical experiments, scripts, and small tools related to astronomical observation and analysis.
+
+The internal organization may evolve as the project grows.
 
 ---
 
@@ -61,9 +60,9 @@ Only after these concepts are understood does equipment selection become meaning
 
 ## YouTube Channel
 
-Educational videos corresponding to these materials are published on the Austronomic YouTube channel.
+Educational videos corresponding to this project are published on the Austronomic YouTube channel.
 
-(You will add the channel link here once the channel is created.)
+(The channel link will be added once it becomes available.)
 
 ---
 
